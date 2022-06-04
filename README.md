@@ -1,5 +1,7 @@
 # Cosmic Shift 🪐
 
+THEME COMING SOON
+
 _A cosmic-inspired editor theme for Visual Studio Code_ 👾.
 
 Experience the darkness and vibrance of deep space. Inspired by the vibrance of distant stars, planets, and the luminous energy of outer space.
